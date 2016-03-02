@@ -74,6 +74,9 @@ a#open-popup, a#open-popup:hover {
     text-decoration: none;
 }
 
+a:visited {
+    color: #fff;
+}
 
 @media (max-width: 991px) {
   .list-text {
