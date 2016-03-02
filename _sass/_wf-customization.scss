@@ -69,6 +69,12 @@
   text-align: center;
 }
 
+a#open-popup, a#open-popup:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+
 @media (max-width: 991px) {
   .list-text {
     width: 91%;
